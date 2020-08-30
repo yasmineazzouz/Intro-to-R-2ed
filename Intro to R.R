@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Yasmine Azzouz 8/23/2020
+# Copy for Yasmine Azzouz 8/30/2020
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
